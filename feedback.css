@@ -1,0 +1,66 @@
+a {
+    color: black;
+}
+
+a:hover {
+    font-weight:bold;
+}
+
+body h1{
+    text-align: center;
+}
+
+textarea{
+    width: 100%;
+}
+@media screen and (max-width:400px) {
+    .expections th{
+        font-size: 13px;
+    }
+}
+
+fieldset{
+    margin: 10px;
+    padding: 10px 20px 10px 10px;
+    border: 1px solid #666;
+    border-radius: 8px;
+}
+
+.content_expections{
+    text-align: center;
+}
+
+legend{
+    background: orange;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+#email{
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+#homepage {
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+#birthday{
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+#send_button_feedback{
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    background: orange;
+    text-align: center;
+    border-radius: 2px;
+    width: 80%
+}
+
+#send_button{
+    text-align: center;
+}
